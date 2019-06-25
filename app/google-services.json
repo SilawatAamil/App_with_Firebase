@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73795026407",
+    "firebase_url": "https://appwithfirebase-e0238.firebaseio.com",
+    "project_id": "appwithfirebase-e0238",
+    "storage_bucket": "appwithfirebase-e0238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73795026407:android:14a5fbdb9788dc98",
+        "android_client_info": {
+          "package_name": "com.example.unitygames.app_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73795026407-o0mh7d6mne387ui9i8n0kbb85qm31c7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unitygames.app_with_firebase",
+            "certificate_hash": "85442341418011a16d5c7326cc6d6f8493a0ee75"
+          }
+        },
+        {
+          "client_id": "73795026407-p6nlsmpvg9ilmb9f76fqv1k987g1r1hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMwzn6K4KRBCUlFcNaWS0vAjmc1caulIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73795026407-p6nlsmpvg9ilmb9f76fqv1k987g1r1hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
